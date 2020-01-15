@@ -12,3 +12,13 @@ Output img1 of FizzBuzz-Game:
 Output img2 of FizzBuzz-Game:
 
 ![](https://raw.githubusercontent.com/doctor-rutvik14/FizzBuzz-Game/master/images/O%3AP%20img2.png)
+
+Output img3 of FizzBuzz-Game:
+
+![](https://raw.githubusercontent.com/doctor-rutvik14/FizzBuzz-Game/master/images/O%3AP%20img3.png)
+
+Output img4 of FizzBuzz-Game:
+
+
+
+Output img5 of FizzBuzz-Game:
